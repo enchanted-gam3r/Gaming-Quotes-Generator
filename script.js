@@ -43,7 +43,7 @@
             {
                 text: "Courage is not the absence of fear, but the strength to keep going despite it.",
                 author: "Dragon Age: Inquisition"
-            }
+            },
             {
                 text: "Don’t stop fighting. If you keep moving forward, you’ll find a way.",
                 author: "Persona 5"
