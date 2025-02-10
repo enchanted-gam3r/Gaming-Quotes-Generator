@@ -135,7 +135,7 @@
             {
                 text: "You are the last, and the first, and the only one who can hold this world together.",
                 author: "Hollow Knight"
-            },
+            }
         ];
 
         function generateQuote() {
